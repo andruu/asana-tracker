@@ -51,5 +51,5 @@ class AsanaTracker
   end
 end
 
-tracker = AsanaTracker.new 'gn2PEPr.IlurhIGjsDO7sY6XDSNMsCKQ', 742215140613
+tracker = AsanaTracker.new 'API_KEY_HERE', 'PROJECT_ID_HERE'
 tracker.total_time
